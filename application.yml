@@ -15,3 +15,6 @@ greeting:
   displayFortune: true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
+
+quote:
+  quoteServiceURL: http://quote-service-dev.cfapps.io/quote
